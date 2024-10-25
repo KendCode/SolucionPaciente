@@ -1,0 +1,24 @@
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.exe.config
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.MainForm.resources
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.csproj.GenerateResource.Cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\INFOCAL EA - B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.exe.config
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.MainForm.resources
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.csproj.GenerateResource.Cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\ITBM-2B\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.pdb
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.exe.config
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.exe
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\bin\Debug\SolucionPaciente.pdb
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.MainForm.resources
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.exe
+C:\Users\ASUS\Desktop\SolucionPaciente\SolucionPaciente\obj\Debug\SolucionPaciente.pdb

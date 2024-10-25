@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD1E12-7E7D-407A-A5CC-735032740300}|SolucionPaciente\\SolucionPaciente.csproj|f:\\programacion ii\\4to bimestre\\solucionpaciente\\solucionpaciente\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FABD1E12-7E7D-407A-A5CC-735032740300}|SolucionPaciente\\SolucionPaciente.csproj|solutionrelative:solucionpaciente\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD1E12-7E7D-407A-A5CC-735032740300}|SolucionPaciente\\SolucionPaciente.csproj|f:\\programacion ii\\4to bimestre\\solucionpaciente\\solucionpaciente\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABD1E12-7E7D-407A-A5CC-735032740300}|SolucionPaciente\\SolucionPaciente.csproj|solutionrelative:solucionpaciente\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABD1E12-7E7D-407A-A5CC-735032740300}|SolucionPaciente\\SolucionPaciente.csproj|f:\\programacion ii\\4to bimestre\\solucionpaciente\\solucionpaciente\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABD1E12-7E7D-407A-A5CC-735032740300}|SolucionPaciente\\SolucionPaciente.csproj|solutionrelative:solucionpaciente\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\SolucionPaciente\\MainForm.cs",
+              "RelativeDocumentMoniker": "SolucionPaciente\\MainForm.cs",
+              "ToolTip": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\SolucionPaciente\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SolucionPaciente\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:09:03.665Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\SolucionPaciente\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SolucionPaciente\\MainForm.Designer.cs",
+              "ToolTip": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\SolucionPaciente\\MainForm.Designer.cs",
+              "RelativeToolTip": "SolucionPaciente\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:09:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\SolucionPaciente\\MainForm.cs",
+              "RelativeDocumentMoniker": "SolucionPaciente\\MainForm.cs",
+              "ToolTip": "F:\\Programacion II\\4TO BIMESTRE\\SolucionPaciente\\SolucionPaciente\\MainForm.cs",
+              "RelativeToolTip": "SolucionPaciente\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:08:46.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
